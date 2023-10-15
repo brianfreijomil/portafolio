@@ -1,0 +1,123 @@
+/*GENERAL STYLE*/
+* {
+    font-family: "eurostile", sans-serif;
+    color: #f5f5f5;
+    text-decoration: none;
+}
+.title-space {
+    font-size: 3rem !important;
+    margin: 0;
+}
+.subtitle-space {
+    font-size: 1.5rem !important;
+    font-weight: 400;
+    margin: 0;
+}
+a {
+    cursor: pointer;
+}
+/*BODY STYLE*/
+body {
+    background: radial-gradient(circle at bottom,#0e0b2a,#010108 90%);
+    margin: 0;
+}
+
+/*SECTION STYLE*/
+.section {
+    margin-bottom: 10%;
+}
+
+/*HEADER STYLE*/
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 8rem;
+    margin-bottom: 10%;
+}
+.header-section {
+    width: 50%;
+}
+
+/*LOGO STYLE*/
+.logo-section {
+    position: relative;
+    height: 100%;
+}
+.logo-space-container {
+    position: absolute;
+    left: 15%;
+    top: 30%;
+}
+
+/*NAV STYLE*/
+.nav-section {
+
+}
+.nav {
+    width: 100%;
+}
+.nav-section-nav-ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.nav-section-nav-ul a {
+    margin: 0 5% 0 5%;
+}
+.nav-ul-li {
+    font-family: inherit; !important;
+    font-weight: 200 !important;
+    font-size: 1.4vw;
+    color: rgb(138, 55, 245) !important;
+}
+
+/*PRESENTATION STYLE*/
+.presentation-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.presentation-txt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3%;
+}
+.presentation-txt h1 {
+    margin-bottom: 3%;
+}
+.presentation-img-myself {
+    width: 15%;
+    height: auto;
+}
+.presentation-img-myself-img {
+    width: 100%;
+    height: auto;
+}
+.presentation-img-myself-img img {
+    border-radius: 50%;
+    width: 100%;
+    height: auto;
+}
+
+/*SKILLS STYLE*/
+
+.skills-section {
+    display: flex;
+}
+.skills-sub-section {}
+.backend-skills {}
+.container-backend-skills {}
+.frontend-skills {}
+.container-frontend-skills {}
+.other-skills {}
+.container-other-skills {}
+.sk
+
+
