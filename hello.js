@@ -1,1 +1,1 @@
-console.log("hello fucking world");
+"Use strict";
